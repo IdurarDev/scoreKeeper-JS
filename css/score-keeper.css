@@ -1,0 +1,8 @@
+h1, .container {
+  text-align: center;
+}
+
+.p1, .p2 {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
